@@ -1,0 +1,5 @@
+16:36:49.430 [main] FATAL alpha.Demo - hi fatal
+16:36:54.367 [main] DEBUG alpha.Demo - hi debug
+16:36:54.372 [main] INFO  alpha.Demo - hi info
+16:36:54.372 [main] ERROR alpha.Demo - hi error
+16:36:54.372 [main] FATAL alpha.Demo - hi fatal
